@@ -4,12 +4,7 @@ If the claim is approved then determine how much the payer will pay to the provi
 
 The flow of claim adjudication is below:
 
-1. File Claim 
-  1. Initial Processing Review
-    1. Automatic Review 
-      1. Manual Review 
-        1. Determine Payment 
-          1. Remit Payment
+File Claim &rarr Initial Processing Review &rarr Automatic Review &rarr Manual Review &rarr Determine Payment &rarr Remit Payment
 
 Every claim adjudication goes through 4 steps before payment is remitted to provider and Explanation of Benefits (EOB) is sent to the patient. It is not necessary for a claim adjudication to go through all steps, the approval or denial can happen at any step depending on medical necessity and The claim can be denied at any step by the payer.
 
