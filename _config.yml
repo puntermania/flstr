@@ -36,7 +36,7 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 ---
 layout: default
-comments: true
+comments: true 
 # other options
 ---
 disqus: https-abhishekdjoshi-github-io
