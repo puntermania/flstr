@@ -1,3 +1,10 @@
+---
+layout: post
+title: Preauthorisation approval - a necessary step?
+description: what is preauthorisation approval and why is it necessary? 
+keywords: preauthorisation,  approval, ICD10, service, procedure code, ICD10 code, category of services, claim denied, partial approval, claim approval, claim, filing, health insurance, remittance, electronic remittance, initial review, payer, provider, payment, claim review
+---
+
 Preauthorisation approval is a process where the patient through provider seeks a prior approval from the payer for receiving certain types of care, medication or treatment from the provider. If the preauthorisation approval is not requested before receiving specific categories of procedures then payer may refuse to pay for those procedures or medications thus increasing burden on patient to pay for treatment. There is also a danger of increased bad debt for providers, in case the patient is unable to pay for the treatment for which preauthorisation approval was not requested.
 
 Through preauthorisation, the payer determines and validates the medical necessity and aptness of the procedure prescribed by the provider. Preauthorisation approval helps payer keep a tab on healthcare costs by preventing duplicate and unnecessary services, while offering patients generic alternatives, if available. Preauthorisation is also leveraged by providers to cover the risk of non-payment when patient insists on payer coverage. 
