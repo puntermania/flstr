@@ -1,3 +1,11 @@
+---
+layout: post
+title: Know what brought success
+description: knowing what brought you success is more important than success itself
+keywords: product management, product manager, success metrics, impact, product success, drive engagement
+---
+
+
 Consistency in the results is critical to measure whether the product or the feature is a success. Very often I have seen a product manager celebrating the success prematurely and attributing that success to changes he/she did. I have been guilty of doing the same early in my career.
 
 After going through the typical exercise of finding the pain points of the users, prioritizing the pain points per their severity and criticality for the users, coming up with many solution ideas, and prioritizing those solutions that will help me achieve maximum possible impact in the shortest possible with least amount of resources, I piloted a feature all jazzed up to drive user engagement, especially time spent doing certain activities on the product. Boy! I drove the engagement or so I thought. Having released the feature, I started tracking metrics to assess the level of engagement. I was happy to see the metrics moving in the positive direction at a much faster rate than what I had initially thought. After reaching the upper bound, the growth slowed down and was almost getting plateaued, as unlike money, the growth doesn’t compound infinitely. To think of it, the engagement, as measured in terms of time spent on the platform, can be increased 5x but it’s hard to sustain that level of growth weekly, monthly or yearly consistently.
