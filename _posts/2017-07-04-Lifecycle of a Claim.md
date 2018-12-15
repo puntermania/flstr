@@ -1,3 +1,10 @@
+---
+layout: post
+title: Lifecycle-of-a-Claim
+description: what-happens-from-the-moment-claim-is-filed-until-the-doctor-gets-the-money?
+keywords: EDI, adjudication, claim, filing, 277CA, X12 834, X12 835, electronic remittance, claim authentication, payer, provider
+---
+
 Insurance is a critical pillar in the healthcare journey of a patient. Any patient who has gone to a hospital or clinic for receiving any treatment values the need of having insurance.  A lot of backend work is undertaken by the doctor or his/her staff and other healthcare providers while dealing with insurance.  
 
 Healthcare providers get paid when they submit claim to the patient’s insurance provider, who are commonly called as Payers. Claim is a detailed and itemised statement of services provided and procedures carried by the provider while treating the patient. The payer or a partner vendor service provider for payer validates, verifies and adjudicates the claim. A successful adjudication of claim results in Electronics Remittance Advice File and money being remitted to provider. A denial by payer leads to additional paperwork for providers and patients. 
