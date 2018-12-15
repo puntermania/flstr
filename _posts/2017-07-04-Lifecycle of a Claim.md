@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lifecycle-of-a-Claim
-description: what-happens-from-the-moment-claim-is-filed-until-the-doctor-gets-the-money?
+title: Lifecycle of a Claim
+description: what happens from the moment claim is filed until the doctor gets the money?
 keywords: EDI, adjudication, claim, filing, 277CA, X12 834, X12 835, electronic remittance, claim authentication, payer, provider
 ---
 
