@@ -1,3 +1,10 @@
+---
+layout: post
+title: What happens during claim adjudication?
+description: what is claim adjudication and what data is checked for claim adjudication?
+keywords: explanation of benefits, adjudication, claim, filing, EOB, health insurance, remittance, electronic remittance, initial review, payer, provider, payment, claim review
+---
+
 Claim adjudication is a process where a payer validates the submitted claim to determine whether to pay for procedures that provider has performed on patient. There are two possible outcomes of adjudication: approval and denial. 
 
 If the claim is approved then determine how much the payer will pay to the provider and how much patient owes to the provider. If the claim is denied then provide an explanation for reasons for denial. If the claim is denied then after understanding the reasons of denial, the provider or the patient can make necessary corrections to submit the claim again. This claim will be treated as new claim, and it will have its own lifecycle. 
