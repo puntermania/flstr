@@ -1,3 +1,10 @@
+---
+layout: post
+title: Why Product Management?
+description: why did I become a product manager?
+keywords: product management, product manager, stakeholder management, enjoy product management, love product management
+---
+
 I have been very busy lately with my work. It is good when you enjoy what you do and I have been fortunate to have had that opportunity. I feel thankful.
 
 Ever since I moved into Product Management, employers, peers, mentees and companies that I consult with have always been asking why I chose Product Management. My answers have evolved as I grown in my career and have had rich and diverse experiences as a product manager. When I walk down the memory lane to the early stages of my career, I find it amusing when I hear what my answers were to be for why I am interested in Product Management. Truth be told, I was fascinated by this field because I had seen many former product managers climbing to the upper echelons of the company. I wanted to be one of them. However, I was informed by various sources, including schools and alumni but not those who were actually hiring me, that I should not be very upfront about my desire to climb the ladder. Thus I worked hard to prepare a pleasant sounding story on why I want to be a product manager. If I were to interview myself now and hear those very words, I would cringe. I am sure the hiring managers then cringed too, even then one generous hiring manager took a bet on me and gave me a platform to be a product manager. My heartfelt gratitude to this person. 
