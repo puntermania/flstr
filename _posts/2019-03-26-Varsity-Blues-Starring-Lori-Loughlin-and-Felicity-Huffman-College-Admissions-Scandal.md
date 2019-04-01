@@ -4,7 +4,7 @@ title: Varsity Blues - Starring Lori Loughlin and Felicity Huffman - College Adm
 description: what is the college admissions scandal? 
 keywords: Lori Loughlin, Felicity Huffman, key worldwide foundation, college admissions bribery scandal, bribery, USC admission, admission scandal
 ---
-<div style="text-align: justify"> 
+<p style="text-align: justify"> 
 Varsity Blues was recently released in the spring of 2019 starring Lori Loughlin and Felicity Huffman and their families. Produced and Directed by FBI, this spring classic took 7 years in making. The movie marks debut of Rick, who is also the EP and screenwriter for the movie. 
 
 It’s spring and we have our share of scandals already. Lori Loughlin, Full House and Fuller House actress, and Felicity Huffman, the determined Lynette from Desperate Housewives, are accused of committing crimes. Wait, what? How could these lovely ladies commit crimes? 
@@ -34,4 +34,4 @@ Both Lori and Felicity were arrested and released on bail. The case is ongoing a
 The Donald says. Serves them right for being this stupid. I have never seen anyone that dumb. They have no class to handle these things intelligently. All my moneyed friends have sent their kids to the top universities, were they caught? People like Lori and Felicity with their stupidity bring shame to us moneyed people. Everyone will now think that we committed such stupid acts to send our kids to top universities. What can one expect from these Hollywood types? They do know how to mess it up for honest, hardworking, intelligent moneyed people like me. 
 
 You want to send your kid to USC? Just donate some change. Do not bribe. Just donate. 
-</div>
+</p>
