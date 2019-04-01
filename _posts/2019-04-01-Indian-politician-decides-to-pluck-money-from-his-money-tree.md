@@ -5,7 +5,11 @@ description: Understand how Rahul Gandhi will fund his policies
 keywords: Rahul Gandhi, Narendra Modi, Rs 72000, INR 72000, 2019 elections, India general election 2019, Pappu, minimum income guarantee
 ---
 <p style="text-align: justify">
-Indian Prime Ministerial candidate Rahul Gandhi, the leader of Indian National Congress, the oldest political party in India, has finally decided to end poverty forever and uplift over 50 million poor families in India. Under Rahul Gandhi’s plan, each family will receive INR 72,000 (~US$ 1030) annually - this amounts to a total of US$ 51.5B annually for 50 million families.  Rahul is confident that his policy will lift millions out of poverty and fulfil the dreams of his ancestors, primarily great grandfather, grandmother and father, all of who have been former Prime Ministers of India. Such a generous move came as much needed delight for billions of Indians who were tired of ineffective policies of current Prime Minister Narendra Modi. Prime Minister Modi, who won elections with a large majority in 2014 elections, has not been able to reduce poverty in India in the last five years. Under his ineffective leadership, the Indian economy has grown at an average rate of mere 7% in the last five years. </p>
+Indian Prime Ministerial candidate Rahul Gandhi, the leader of Indian National Congress, the oldest political party in India, has finally decided to end poverty forever and uplift over 50 million poor families in India. Under Rahul Gandhi’s plan, each family will receive INR 72,000 (~US$ 1030) annually - this amounts to a total of US$ 51.5B annually for 50 million families.  Rahul is confident that his policy will lift millions out of poverty and fulfil the dreams of his ancestors, primarily great grandfather, grandmother and father, all of who have been former Prime Ministers of India. </p>
+<br />
+  
+<p style="text-align: justify">
+Such a generous move came as much needed delight for billions of Indians who were tired of ineffective policies of current Prime Minister Narendra Modi. Prime Minister Modi, who won elections with a large majority in 2014 elections, has not been able to reduce poverty in India in the last five years. Under his ineffective leadership, the Indian economy has grown at an average rate of mere 7% in the last five years. </p>
 <br />
 
 <p style="text-align: justify">
