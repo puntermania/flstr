@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indian politician decides to pluck money from his money tree
+title: Indian politician decides to pluck money from tree
 description: Understand how Rahul Gandhi will fund his policies 
 keywords: Rahul Gandhi, Narendra Modi, Rs 72000, INR 72000, 2019 elections, India general election 2019, Pappu, minimum income guarantee
 ---
