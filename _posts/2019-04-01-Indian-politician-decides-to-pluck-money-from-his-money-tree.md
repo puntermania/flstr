@@ -4,6 +4,7 @@ title: Indian politician decides to pluck money from his money tree
 description: Understand how Rahul Gandhi will fund his policies 
 keywords: Rahul Gandhi, Narendra Modi, Rs 72000, INR 72000, 2019 elections, India general election 2019, Pappu, minimum income guarantee
 ---
+<p style="line-height: 1.5">
 <p style="text-align: justify;line-height: 1.5"> 
 Indian Prime Ministerial candidate Rahul Gandhi, the leader of Indian National Congress, the oldest political party in India, has finally decided to end poverty forever and uplift over 50 million poor families in India. Under Rahul Gandhi’s plan, each family will receive INR 72,000 (~US$ 1030) annually - this amounts to a total of US$ 51.5B annually for 50 million families.  Rahul is confident that his policy will lift millions out of poverty and fulfil the dreams of his ancestors, primarily great grandfather, grandmother and father, all of who have been former Prime Ministers of India. </p>
 
@@ -29,5 +30,6 @@ Getting tired of repeated questions by media, economists and industrialists, Pap
 
 
 <p style="text-align: justify">
-Indians are beyond belief after listening to Pappu. Millions are already marching to Rahul’s house to get a glimpse of this tree. Many are hoping to steal some so that they can grow it in their backyard. Indian Prime Minister Narendra Modi is speechless. Leading economists and media personnel India who doubted Rahul Gandhi earlier have now realized unanimously that they have found their next Prime Minister. </p>
+Indians are beyond belief after listening to Pappu. Millions are already marching to Rahul’s house to get a glimpse of this tree. Many are hoping to steal some so that they can grow it in their backyard. Indian Prime Minister Narendra Modi is speechless. Leading economists and media personnel India who doubted Rahul Gandhi earlier have now realized unanimously that they have found their next Prime Minister. </p> </p>
 <br />
+
