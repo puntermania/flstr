@@ -61,7 +61,7 @@ url: https://puntermania.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 #baseurl: "https://abhishekdjoshi.github.io/blog"
-baseurl: "https://puntermania.github.io/blog"
+baseurl: "https://puntermania.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
