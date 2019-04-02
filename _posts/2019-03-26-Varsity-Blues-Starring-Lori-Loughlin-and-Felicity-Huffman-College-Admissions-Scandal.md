@@ -48,4 +48,3 @@ The Donald says. Serves them right for being this stupid. I have never seen anyo
 
 <p style="text-align: justify;line-height: 1.7">
 You want to send your kid to USC? Just donate some change. Do not bribe. Just donate. </p> <br />
-<br />
