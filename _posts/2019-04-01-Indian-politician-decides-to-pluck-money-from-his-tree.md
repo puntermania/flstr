@@ -52,7 +52,7 @@ Indians are beyond belief after listening to Pappu. Millions are already marchin
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our mailing list</h2>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
