@@ -54,7 +54,7 @@ The father took his son by the hand and led him to the fence. He said, "You have
 Never compare yourself with others. The problem is that you never know what is the real situation with others. Just because someone uploads photos with smiling faces, doesn’t mean those smiling faces are happy. They could be burying thousands wounds and tears that is not visible when the photo is taken. Just because your neighbor bought a nice car doesn’t mean they are rich. They could be knee deep in debt. Just because your friend and his wife travel to far off places, doesn’t mean they are rich. They could be up to their credit card debt and about to get fired. They could be projecting a lie, living a nightmare, not showing it to rest of the world. People do a very good job of projecting false images. Don’t fret and Don’t compare. You never know what is the reality. <br />
 
 
-If you are living the life you know is right, proud of decisions you have made and content with what you see in the mirror then don’t be swayed by what others are doing - be it exuberance or pessimism - you live your life and you let others live their life. Keep doing what you are doing. <br />
+If you are living the life you know is right, proud of decisions you have made and content with what you see in the mirror then don’t be swayed by what others are doing - be it exuberance or pessimism - you live your life and you let others live their life. Keep doing what you are doing. </p> <br />
 
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=0e628327d496d7cbe86598540&amp;id=801bf936e2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
