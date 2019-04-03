@@ -38,7 +38,8 @@ Indians are beyond belief after listening to Pappu. Millions are already marchin
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:300px;}
 	
 </style>  
-	  <div id="mc_embed_signup">
+	 
+<div id="mc_embed_signup">
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=0e628327d496d7cbe86598540&amp;id=801bf936e2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our mailing list</h2>
