@@ -12,15 +12,15 @@ Holidays are a great time to introspect. As I gather with family and friend, hea
 One theme that is common across every generation and every generation is how to be a better person. Below are some of the amazing insights I have gathered over the years and which have been helping me become a better person everyday. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7"> 
-**_If you believe you can do something, you are right. If you believe you cannot do something, you are right_**  
+**If you believe you can do something, you are right. If you believe you cannot do something, you are right**  
 Belief is a key ingredient to succeed in life. Having strong belief is like having 51% of the battle won, you are closing in on the final victory. My grandfather when born was fragile, worried by his father whether his boy will do something meaningful in his life. A conversation with his brother drove my grandfather to have strong belief in himself to almost a maniac level. You see early on his childhood, my grandfather was told that he will not account to anything big in life for he was sickly, sensitive and not smart. My grandfather vowed that he will prove his brother wrong. What followed was grueling self-discipline and a collage of activities and not letting any failure bother him. He had deep seated belief in himself that no matter what he will thrive, no matter what he will get what he wants in life. He will get for sure, if not today then tomorrow. This philosophy of my grandfather has never failed me. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7"> 
-**_It doesn’t matter what happens, what matters is how you react to it_**  
+**It doesn’t matter what happens, what matters is how you react to it**  
 This story is often repeated and I don’t know who to attribute this story to - my grandfather or various other sources on the internet. What’s important is the lesson it imparts. Here’s the story. An alcoholic father has two sons - one follows his father’s footsteps and ends up alcoholic and struggling throughout life, and the other becomes a successful, sober businessman and a doting family man. Each son says he is the way he is because the father was an alcoholic. Everything was same for these two sons, yet different outcomes. What happens to one is a cold hard fact, how one responds to it is a choice, and that choice defines how your life will turn out to be. You cannot always control how things unravel but what you can control is how you react to how things unravel. You are defined in life by your actions, and the best action you can take is how do you choose to react to things around you. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7"> 
-**_You will always find good in everything, only if you seek it_**  
+**You will always find good in everything, only if you seek it**  
 You can cry about how fallen leaves have made roads dirty, or you can enjoy that fall with its colorful leaves is coming. If you try finding good in everything, no matter how tough the challenges are or how ambiguous the situation is, you will have a hope of positive things happening. On the contrary, if you only find bad or if you start observing more bad than good, and you are unable to change your situation then you will end up being miserable for your situation. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7"> 
