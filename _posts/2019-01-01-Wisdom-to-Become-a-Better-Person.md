@@ -35,7 +35,7 @@ Your heart knows what’s right and what’s wrong. How can one live with good c
 You may be the best in one or two things, so are others. Everyone is better than you at something. Someone is better than you in solving rubik’s cube, writing software, or well versed in Shakespeare. There is no one person who is best at all the things, there will always be a few areas where they have room for improvement. Always have the humility to accept that you are not best at all things, even many things, and that the universe we live in is one giant classroom always teaching us something new and always making us realize that there is always a room for improvement in us. Going about everyday with this openness opens us to infinite learning opportunities. You will be amazed at how quickly you grow and how much better you become. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7"> 
-**You can only control the action, not the fruits**  <br />
+**_You can only control the action, not the fruits_**  <br />
 You will experience failures, no doubt about it. Your expectations and desires will not be met. What do you do then? Do you give up? Do you lament why you failed? Do you stop whatever you're doing because you failed? Just because you failed once or twice or thrice, does it mean you will fail again? In Bhagvat Gita, an ancient Indian literature of wisdom, it’s said that that do you work, do it well then let go. That’s all there needs to be. We are only entitled to the action, never to the fruits. Have satisfaction in knowing that you made the effort to do your best, to become your best. You can’t control how things unravel, however what matters most is how you react to those things. Key to success is not never stopping your actions because of a few setbacks. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7"> 
@@ -61,3 +61,29 @@ Never compare yourself with others. The problem is that you never know what is t
 
 <p style="text-align: justify;line-height: 1.7"> 
 If you are living the life you know is right, proud of decisions you have made and content with what you see in the mirror then don’t be swayed by what others are doing - be it exuberance or pessimism - you live your life and you let others live their life. Keep doing what you are doing. </p> <br />
+
+<form action="https://gmail.us20.list-manage.com/subscribe/post?u=0e628327d496d7cbe86598540&amp;id=801bf936e2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list</h2>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">Name  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0e628327d496d7cbe86598540_801bf936e2" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+
+
