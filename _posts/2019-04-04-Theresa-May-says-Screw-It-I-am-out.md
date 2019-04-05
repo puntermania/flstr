@@ -23,7 +23,7 @@ Theresa May has been negotiating with her party members and the Labour party for
 May plans to sleep for next seven days, as she has been without sleep for the last three years. She also plans to travel the world to highlight Westminster hypocrisy with Brexit and write a tell-all book to let the world know how British parliament thinks and works. Many members of parliament, also known as MPs, are frustrated with what May is set out to do. “She never let us live in peace in last three years, now even after resigning she wants to make our life miserable”, commented one MP on the condition of anonymity. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7">
-On learning about May’s resignation, The Donald mocked that May did not read his book ‘Trup: The Art of Deal’ which would have helped May secure Brexit deal on her terms the first time. </p> <br />
+On learning about May’s resignation, The Donald mocked that May did not read his book ‘Trump: The Art of Deal’ which would have helped May secure Brexit deal on her terms the first time. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7">
 As May resigns, Britain is without any Prime Minister. Queen Elizabeth, the British monarch, has decided to appoint her great grandson Prince George of Cambridge with the hope that with his cuteness, Prince George can influence the British parliamentarians to successfully close the Brexit deal. As Prince George is also well liked by the EU Commission, Queen Elizabeth is confident that Britain will get a favorable exit term. May, on the other hand, feels that even Prince George will not be able to drive British MPs out of their laziness. </p> <br />
