@@ -4,6 +4,7 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
+    {% include analytics.html %}
     
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.keywords %}
@@ -41,7 +42,7 @@
   <script src="//pushlum.com/ntfc.php?p=2539431" data-cfasync="false" async></script> 
 	  
     <script id="dsq-count-scr" src="//https-puntermania-github-io.disqus.com/count.js" async></script>
-    {% include analytics.html %}
+    <!-- {% include analytics.html %} -->
 	  
   
   </head>
