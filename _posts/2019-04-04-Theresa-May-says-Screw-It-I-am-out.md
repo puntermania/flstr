@@ -23,7 +23,8 @@ Theresa May has been negotiating with her party members and the Labour party for
 May plans to sleep for next seven days, as she has been without sleep for the last three years. She also plans to travel the world to highlight Westminster hypocrisy with Brexit and write a tell-all book to let the world know how British parliament thinks and works. Many members of parliament, also known as MPs, are frustrated with what May is set out to do. “She never let us live in peace in last three years, now even after resigning she wants to make our life miserable”, commented one MP on the condition of anonymity. </p> <br />
 
 <p style="text-align: justify;line-height: 1.7">
-On learning about May’s resignation, The Donald mocked that May did not read his book ‘Trump: The Art of Deal’ which would have helped May secure Brexit deal on her terms the first time. </p> <br />
+On learning about May’s resignation, The Donald mocked that May did not read his book [‘Trump: The Art of Deal’] (https://amzn.to/2UnuuRt) which would have helped May secure Brexit deal on her terms the first time. </p> <br />
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=flsterwebsi0b-20&m=amazon&o=15&p=8&l=as1&IS2=1&asins=0399594493&linkId=f330b4257e4373900be7335dfccc8238&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe>
 
