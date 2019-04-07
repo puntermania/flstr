@@ -24,6 +24,8 @@ May plans to sleep for next seven days, as she has been without sleep for the la
 
 <p style="text-align: justify;line-height: 1.7">
 On learning about May’s resignation, The Donald mocked that May did not read his book ‘Trump: The Art of Deal’ which would have helped May secure Brexit deal on her terms the first time. </p> <br />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=flsterwebsi0b-20&m=amazon&o=15&p=8&l=as1&IS2=1&asins=0399594493&linkId=f330b4257e4373900be7335dfccc8238&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
 
 <p style="text-align: justify;line-height: 1.7">
 As May resigns, Britain is without any Prime Minister. Queen Elizabeth, the British monarch, has decided to appoint her great grandson Prince George of Cambridge with the hope that with his cuteness, Prince George can influence the British parliamentarians to successfully close the Brexit deal. As Prince George is also well liked by the EU Commission, Queen Elizabeth is confident that Britain will get a favorable exit term. May, on the other hand, feels that even Prince George will not be able to drive British MPs out of their laziness. </p> <br />
