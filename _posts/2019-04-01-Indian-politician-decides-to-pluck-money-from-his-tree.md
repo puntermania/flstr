@@ -14,7 +14,7 @@ Such a generous move came as much needed delight for billions of Indians who wer
 
 
 <p style="text-align: justify;line-height: 1.7">
-When Rahul Gandhi was initially asked how he plans to fund this policy, he stated that specifics will be detailed once he has become the Prime Minister. He asked everyone to just trust him. Many economists, including the current Finance Minister Arun Jaitley and former Prime Minister Manmohan Singh, were left scratching their head on how Rahul Gandhi will make it happen. On further pressing, Rahul Gandhi did a back of the envelope calculation to show that his policy will cost just 2% of India’s GDP. He requested everyone not to fret so much about a miniscule 2% cost. </p>
+When Rahul Gandhi was initially asked how he plans to fund this policy, he stated that specifics will be detailed once he has become the Prime Minister. He asked everyone to just trust him. Many economists, including the current Finance Minister Arun Jaitley and former Prime Minister Manmohan Singh, were left scratching their head on how Rahul Gandhi will make it happen. On further pressing, Rahul Gandhi did a back of the envelope calculation to show that his policy will cost just 2% of India’s GDP. He requested everyone not to fret so much about a miniscule 2% cost. </p> <br />
 
 
 <p style="text-align: justify;line-height: 1.7">
