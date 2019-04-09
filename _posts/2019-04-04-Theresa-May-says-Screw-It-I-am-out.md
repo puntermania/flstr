@@ -37,6 +37,8 @@ As May dances with joy, her staff is also relieved that they can now do somethin
 <p style="text-align: justify;line-height: 1.7">
 What happens next with Brexit is yet to be seen. For now, May is screaming with joy “Screw Brexit! I am out”. </p> <br />
 
+https://zoom.us/j/4672290781
+
 
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
