@@ -55,7 +55,7 @@ What happens next with Brexit is yet to be seen. For now, May is screaming with 
 
 <form action="https://gmail.us20.list-manage.com/subscribe/post?u=0e628327d496d7cbe86598540&amp;id=801bf936e2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h3>If you found this helpful, join our mailing list to know whenever new content is published</h3>
+	<h3>Do you wish to subscribe to our mailing list?</h3>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
 </label>
