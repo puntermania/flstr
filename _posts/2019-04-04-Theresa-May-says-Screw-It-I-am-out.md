@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Theresa May says ‘Screw It! I am out’ 
+title: Theresa May says "Screw It! I am out" 
 description: Theresa May resigns due to Brexit deal troubles 
 keywords: Theresa May, Brexit, Philip May, Prince George, British MPs, Britain Parliament, Brexit deal
 ---
