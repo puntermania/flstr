@@ -924,10 +924,10 @@ legend {
   justify-content: center;
   -ms-flex-align: center;
   align-items: center;
-  background: url("../images/Searchs_0141.png");
+  background: url("../images/Searchs_01422.jpg");
   background-size: cover;
-  background-position: center center;
-  padding: 15px;
+  /*background-position: center center;*/
+  padding: 0px; /*15px*/
   font-family: "Poppins", sans-serif;
 }
 
@@ -1200,4 +1200,4 @@ legend {
   }
 }
 
-/*# sourceMappingURL=Searchs_013.css.map */
+/* Added on 17th Feb 2020 at 10:40 PM*/
