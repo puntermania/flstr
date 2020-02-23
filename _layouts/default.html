@@ -306,7 +306,7 @@
       }
 
       /*An array containing all the country names in the world:*/
-      var countries = [
+      window.countries = [
         "Afghanistan",
         "Albania",
         "Algeria",
@@ -532,8 +532,8 @@
       ];
 
       /*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
-      autocomplete(document.getElementById("firstInput"), countries);
-      autocomplete(document.getElementById("secondInput"), countries);
+      autocomplete(document.getElementById("firstInput"), window.countries);
+      autocomplete(document.getElementById("secondInput"), window.countries);
     </script>
  <!--Added below on 23 Feb 2020 at 0945 -->  
     <script>
