@@ -122,7 +122,8 @@
     </div>
 
     <div class="s013">
-      <form autocomplete="off" action="/pages/comingsoon.html">
+      <!-- <form autocomplete="off" action="/pages/comingsoon.html"> -->
+	<form id="myForm" autocomplete="off" action="/pages/comingsoon.html">  <!--Added on 32rd Feb 2020 at 0940 -->
         <fieldset>
           <legend>Do you need a visa?</legend>
         </fieldset>
@@ -534,6 +535,31 @@
       autocomplete(document.getElementById("firstInput"), countries);
       autocomplete(document.getElementById("secondInput"), countries);
     </script>
+ <!--Added below on 23 Feb 2020 at 0945 -->  
+    <script>
+      function searchVisa() {
+        /*function searchVisa(theForm) {*/
+        var url;
+        var fromInput1 = document.getElementById("firstInput").value;
+        var toInput2 = document.getElementById("secondInput").value;
+        url = "/pages/canada/honduras.html";
+	//url = "https://flster.com/pages/canada/honduras.html"
+        window.location.href = url;
+        windown.location.assign(url);
+        return url;
+/*        if (fromInput1 == "Canada") {
+          if (toInput2 == "Honduras") {
+            url = "https://flster.com/pages/canada/honduras.html";
+          } else {
+            url = "https://flster.com/pages/canada/honduras.html";
+          }
+        }
+        window.location.href = url;
+        window.location.assign(url);
+       	return url;*/
+      }
+    </script>
+ <!--Added above on 23 Feb 2020 at 0945 -->  
   </body>
 	
 	
