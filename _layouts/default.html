@@ -123,7 +123,7 @@
 
     <div class="s013">
       <!-- <form autocomplete="off" action="/pages/comingsoon.html"> -->
-	<form id="myForm" autocomplete="off" onsubmit="searchVisa()">  <!--Added on 23rd Feb 2020 at 0950 -->
+	<form id="myForm" autocomplete="off" onsubmit="return searchVisa()">  <!--Added on 23rd Feb 2020 at 0950 -->
         <fieldset>
           <legend>Do you need a visa?</legend>
         </fieldset>
@@ -538,25 +538,35 @@
  <!--Added below on 23 Feb 2020 at 0945 -->  
     <script>
       function searchVisa() {
-        /*function searchVisa(theForm) {*/
-        var url;
         var fromInput1 = document.getElementById("firstInput").value;
         var toInput2 = document.getElementById("secondInput").value;
-        url = "/pages/canada/honduras.html";
-	//url = "https://flster.com/pages/canada/honduras.html"
-        window.location.href = url;
-        windown.location.assign(url);
-        return url;
-/*        if (fromInput1 == "Canada") {
-          if (toInput2 == "Honduras") {
-            url = "https://flster.com/pages/canada/honduras.html";
-          } else {
-            url = "https://flster.com/pages/canada/honduras.html";
-          }
+        switch (fromInput1) {
+          case "Canada":
+            switch (toInput2) {
+              case "Honduras":
+                document.getElementById("myForm").action =
+                  "/pages/canada/honduras.html";
+                break;
+              default:
+                document.getElementById("myForm").action =
+                  "/pages/comingsoon.html";
+                break;
+            }
+            break;
+          default:
+            document.getElementById("myForm").action = "/pages/comingsoon.html";
+            break;
         }
-        window.location.href = url;
-        window.location.assign(url);
-       	return url;*/
+
+        /*if (fromInput1 == "Canada") {
+        if (toInput2 == "Honduras") {
+          document.getElementById("myForm").action =
+            "/pages/canada/honduras.html";
+        } else {
+          document.getElementById("myForm").action = "/pages/comingsoon.html";
+        }
+      }*/
+        return true;
       }
     </script>
  <!--Added above on 23 Feb 2020 at 0945 -->  
