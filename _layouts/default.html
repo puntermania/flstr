@@ -535,41 +535,52 @@
       autocomplete(document.getElementById("firstInput"), window.countries);
       autocomplete(document.getElementById("secondInput"), window.countries);
     </script>
- <!--Added below on 23 Feb 2020 at 0945 -->  
+ <!--Added below on 23 Feb 2020 at 1540 -->  
     <script>
       function searchVisa() {
         var fromInput1 = document.getElementById("firstInput").value;
         var toInput2 = document.getElementById("secondInput").value;
-        switch (fromInput1) {
-          case "Canada":
-            switch (toInput2) {
-              case "Honduras":
-                document.getElementById("myForm").action =
-                  "/pages/canada/honduras.html";
+        if (
+          window.countries.includes(fromInput1) == false ||
+          window.countries.includes(toInput2) == false
+        ) {
+          if (window.countries.includes(fromInput1) == false) {
+            window.alert("Sorry. We do not know the country you're from");
+          } else {
+            window.alert("Sorry. We do not know the country you're going to");
+          }
+          document.getElementById("myForm").action = "/";
+        } else {
+          if (fromInput1 == toInput2) {
+            window.alert(
+              "You do not need a visa to travel, work or settle in a country that you're already a citizen of"
+            );
+            document.getElementById("myForm").action = "/";
+          } else {
+            switch (fromInput1) {
+              case "Canada":
+                switch (toInput2) {
+                  case "Honduras":
+                    document.getElementById("myForm").action =
+                      "/pages/canada/honduras.html";
+                    break;
+                  default:
+                    document.getElementById("myForm").action =
+                      "/pages/comingsoon.html";
+                    break;
+                }
                 break;
               default:
                 document.getElementById("myForm").action =
                   "/pages/comingsoon.html";
                 break;
             }
-            break;
-          default:
-            document.getElementById("myForm").action = "/pages/comingsoon.html";
-            break;
+          }
         }
-
-        /*if (fromInput1 == "Canada") {
-        if (toInput2 == "Honduras") {
-          document.getElementById("myForm").action =
-            "/pages/canada/honduras.html";
-        } else {
-          document.getElementById("myForm").action = "/pages/comingsoon.html";
-        }
-      }*/
         return true;
       }
     </script>
- <!--Added above on 23 Feb 2020 at 0945 -->  
+<!--Added above on 23 Feb 2020 at 1540 -->  
   </body>
 	
 	
