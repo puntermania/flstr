@@ -73,6 +73,41 @@
         font-size: 18px;
       }
     }
+
+    /* basic positioning */
+    .legend {
+      list-style: none;
+    }
+    .legend li {
+      float: left;
+      margin-right: 10px;
+    }
+    .legend span {
+      border: 1px solid #ccc;
+      float: left;
+      width: 12px;
+      height: 12px;
+      margin: 2px;
+    }
+    /* your colors */
+    .legend .localCountry {
+      background-color: red;
+    }
+    .legend .VisaFree {
+      background-color: #22b14c;
+    }
+    .legend .VisaOnArrival {
+      background-color: #b5e61d;
+    }
+    .legend .VisaArriveOrOnline {
+      background-color: #79d343;
+    }
+    .legend .eVisa {
+      background-color: #61c09a;
+    }
+    .legend .VisaRequired {
+      background-color: grey;
+    }
   </style>
   <body>
     <!--Added below on 18th Feb 2020 at 8:15 PM-->
@@ -112,9 +147,7 @@
       <tr>
         <td>Required</td>
         <td>
-          <a href="http://cgoa.ca/visa-application/" target="_blank"
-            >Apply for Tourist Visa</a
-          >
+          <a href="http://cgoa.ca/visa-application/" target="_blank">Apply</a>
         </td>
       </tr>
     </table>
@@ -127,9 +160,7 @@
       <tr>
         <td>Required</td>
         <td>
-          <a href="http://cgoa.ca/visa-application/" target="_blank"
-            >Apply for Business Visa</a
-          >
+          <a href="http://cgoa.ca/visa-application/" target="_blank">Apply</a>
         </td>
       </tr>
     </table>
@@ -142,9 +173,7 @@
       <tr>
         <td>Required</td>
         <td>
-          <a href="http://cgoa.ca/visa-application/" target="_blank"
-            >Apply for Student Visa</a
-          >
+          <a href="http://cgoa.ca/visa-application/" target="_blank">Apply</a>
         </td>
       </tr>
     </table>
@@ -157,9 +186,7 @@
       <tr>
         <td>Required</td>
         <td>
-          <a href="http://cgoa.ca/visa-application/" target="_blank"
-            >Apply for Work Visa</a
-          >
+          <a href="http://cgoa.ca/visa-application/" target="_blank">Apply</a>
         </td>
       </tr>
     </table>
@@ -193,14 +220,42 @@
       recommended. <br /><br />
     </p>
     <br /><br />
-    
+
+    <h2 style="text-align: center">
+      <a href="/pages/canada/canadaAll.html" target="_blank"
+        >Visa Requirements for Canadian Citizens</a
+      >
+      for all destinations
+    </h2>
+    <br /><br /><br />
+
+    <!--
     <img
       src="/images/VisaReq_CanadianCitizens.png"
       class="responsive"
       width="600"
       height="400"
     />
-    
+    <br /><br />
+    <h4 style="text-align: justify; padding: 0px 0px 0px 50px">Legend</h4>
+    <ul class="legend">
+      <li><span class="localCountry"></span> Canada</li>
+      <br />
+      <li><span class="VisaFree"></span> Visa Not Required</li>
+      <br />
+      <li><span class="VisaOnArrival"></span> Visa on Arrival</li>
+      <br />
+      <li><span class="eVisa"></span> eVisa</li>
+      <br />
+      <li>
+        <span class="VisaArriveOrOnline"></span> Visa available both on arrival
+        or online
+      </li>
+      <br />
+      <li><span class="VisaRequired"></span> Visa Required</li>
+      <br />
+    </ul> -->
+
     <!--Added below on 18th Feb 2020 at 8:17 PM-->
     <script>
       function openNav() {
